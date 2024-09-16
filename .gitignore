@@ -13,3 +13,77 @@
 .externalNativeBuild
 .cxx
 local.properties
+   
+# Gradle files
+.gradle/
+**/build/
+!gradle-wrapper.jar
+!gradlew
+!gradlew.bat
+.gradle/caches/
+.gradle/gradle-app.cache/
+.gradle/gradle-wrapper/
+
+# Local configuration files
+local.properties
+*.iml
+
+# Android Studio specific files
+/.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/codeStyles/Project.xml
+.idea/gradle.xml
+
+# Keystore files (for signing APKs)
+*.jks
+
+# Ignore log files
+*.log
+
+# Android log files
+*.log
+*.stacktrace
+
+# Generated files
+/captures/
+/outputs/
+
+# Signing
+/signing/
+
+# Files for the dex process
+*.apk
+*.ap_
+*.dex
+
+# Binary data
+*.keystore
+*.class
+
+# Android build artifacts
+/build/
+/app/build/
+
+# IntelliJ
+/.idea/workspace.xml
+/.idea/libraries
+.idea/modules.xml
+.idea/*.iml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Miscellaneous
+.gradle
+.idea
+.DS_Store
+build/
+
