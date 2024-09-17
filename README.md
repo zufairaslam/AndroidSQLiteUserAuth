@@ -21,4 +21,4 @@ AndroidSQLiteUserAuth is an Android application that demonstrates user authentic
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/AndroidSQLiteUserAuth.git
+   git clone https://github.com/zufairaslam/AndroidSQLiteUserAuth.git
