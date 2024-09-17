@@ -7,7 +7,6 @@ AndroidSQLiteUserAuth is an Android application that demonstrates user authentic
 - **User Registration**: Allows users to create new accounts with email and password.
 - **User Login**: Authenticates users with their credentials.
 - **Local Storage**: Uses SQLite for storing user data securely.
-- **Password Management**: Allows users to reset their passwords.
 
 ## Getting Started
 
