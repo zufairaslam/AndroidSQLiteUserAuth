@@ -1,6 +1,6 @@
 # AndroidSQLiteUserAuth
 
-AndroidSQLiteUserAuth is an Android application that demonstrates user authentication and registration using SQLite for local data storage. This project includes essential features like user login, registration, and password management, leveraging Java for development.
+AndroidSQLiteUserAuth is an Android application that demonstrates user authentication and registration using SQLite for local data storage. This project includes essential features like user login, registration, and user Details, leveraging Java for development.
 
 ## Features
 
